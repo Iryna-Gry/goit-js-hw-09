@@ -26,7 +26,7 @@ let delay = 0;
 function createPromiseSet() {
   delay = delayStepInput.value;
   intervalId = setInterval(() => {
-    while (position <= amountInput.value) {
+    if (position <= amountInput.value) {
       createPromise({ position, delay }).then(onSuccess).catch(onError);
       position += 1;
     }
