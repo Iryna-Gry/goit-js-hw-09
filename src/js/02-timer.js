@@ -20,7 +20,7 @@ const options = {
     } else if (selectedDates[0] - options.defaultDate > 0) {
       options.chosenDate = selectedDates[0];
       enableBtn();
-      startTimer();
+      updateData();
       //   console.log(selectedDates);
     }
   },
@@ -30,13 +30,20 @@ function enableBtn() {
   startBtn.disabled = false;
 }
 function calcDiff() {
-  if (options.chosenDate - options.defaultDate <= 0) {
-    return;
+  if (options.chosenDate - options.defaultDate < 1000) {
+    return 0;
   } else {
     return options.chosenDate - options.defaultDate;
   }
 }
 function convertMs(ms) {
+  if (ms < 1000 || ms === undefined) {
+    const days = 0;
+    const hours = 0;
+    const minutes = 0;
+    const seconds = 0;
+    return { days, hours, minutes, seconds };
+  }
   // Number of milliseconds per unit of time
   const second = 1000;
   const minute = second * 60;
@@ -54,27 +61,32 @@ function convertMs(ms) {
 
   return { days, hours, minutes, seconds };
 }
-function updateData({ days, hours, minutes, seconds }) {
+function updateAPIData({ days, hours, minutes, seconds }) {
   daysRef.textContent = days.toString().padStart(2, '0');
   hoursRef.textContent = hours.toString().padStart(2, '0');
   minutesRef.textContent = minutes.toString().padStart(2, '0');
   secondsRef.textContent = seconds.toString().padStart(2, '0');
 }
+let timerId = null;
 function startTimer() {
-  console.log(options.chosenDate);
-  if (options.chosenDate - options.defaultDate <= 0) {
-    clearInterval(intervalId);
-  } else {
-    options.defaultDate = new Date();
-    const diffData = calcDiff();
-    //   console.log(diffData);
-    const convertedDiffData = convertMs(diffData);
-    updateData(convertedDiffData);
+  timerId = setInterval(() => {
+    if (options.chosenDate - options.defaultDate < 1000) {
+      return;
+    } else {
+      updateData();
+    }
+  }, 1000);
+  if (options.chosenDate - options.defaultDate < 1000) {
+    clearInterval(timerId);
+    startBtn.removeEventListener('click', startTimer);
   }
 }
-startBtn.addEventListener('click', () => {
-  const intervalId = setInterval(startTimer, 1000);
-  if (options.chosenDate - options.defaultDate <= 0) {
-    clearInterval(intervalId);
-  }
-});
+function updateData() {
+  options.defaultDate = new Date();
+  console.log(options.chosenDate);
+  console.log(options.defaultDate);
+  const diffData = calcDiff();
+  const convertedDiffData = convertMs(diffData);
+  updateAPIData(convertedDiffData);
+}
+startBtn.addEventListener('click', startTimer);
