@@ -21,9 +21,10 @@ function invokePromiseSet(evt) {
   evt.preventDefault();
   setTimeout(createPromiseSet, firstDelayInput.value);
 }
-let position = 1;
-let delay = 0;
+
 function createPromiseSet() {
+  let position = 1;
+  let delay = 0;
   delay = delayStepInput.value;
   intervalId = setInterval(() => {
     if (position <= amountInput.value) {
@@ -31,6 +32,7 @@ function createPromiseSet() {
       position += 1;
     }
   }, delay);
+
   if (position >= amountInput.value) {
     clearInterval(intervalId);
   }
