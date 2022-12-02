@@ -23,18 +23,19 @@ function invokePromiseSet(evt) {
 }
 
 function createPromiseSet() {
-  let position = 1;
+  let position = 0;
   let delay = 0;
   delay = delayStepInput.value;
   intervalId = setInterval(() => {
+    position += 1;
     if (position <= amountInput.value) {
       createPromise({ position, delay }).then(onSuccess).catch(onError);
-      position += 1;
     }
   }, delay);
 
-  if (position >= amountInput.value) {
+  if (position > amountInput.value) {
     clearInterval(intervalId);
+    return;
   }
 }
 function onSuccess({ position, delay }) {
