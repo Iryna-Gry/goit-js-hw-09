@@ -31,7 +31,7 @@
 59D:\Projects\goit-js-hw-09\node_modules\terser\dist\.gitkeep133142815058897908 0
 92D:\Projects\goit-js-hw-09\node_modules\caniuse-lite\data\features\date-tolocaledatestring.js133142816451094849 0
 98D:\Projects\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.1133142815105187911 0
-30D:\Projects\goit-js-hw-09\dist133142871558836814 1
+30D:\Projects\goit-js-hw-09\dist133144737346914873 1
 35D:\Projects\goit-js-hw-09\.parcelrc133142805564906251 0
 91D:\Projects\goit-js-hw-09\node_modules\caniuse-lite\data\features\keyboardevent-location.js133142816454439870 0
 68D:\Projects\goit-js-hw-09\node_modules\regenerator-runtime\README.md133142815077017911 0
@@ -162,10 +162,10 @@
 76D:\Projects\goit-js-hw-09\node_modules\svgo\plugins\moveGroupAttrsToElems.js133142815110387907 0
 90D:\Projects\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.c133142815118077898 0
 54D:\Projects\goit-js-hw-09\node_modules\posthtml-parser133142815081847909 1
-53D:\Projects\goit-js-hw-09\src\js\01-color-switcher.js133142819110947803 0
+53D:\Projects\goit-js-hw-09\src\js\01-color-switcher.js133144732247986816 0
 83D:\Projects\goit-js-hw-09\node_modules\@swc\helpers\lib\_class_private_field_get.js133142815102577899 0
 99D:\Projects\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\main-format-mismatch\package.json133142815140647914 0
-44D:\Projects\goit-js-hw-09\src\js\02-timer.js133142871556166788 0
+44D:\Projects\goit-js-hw-09\src\js\02-timer.js133144737344564850 0
 68D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\bg.js133142820586663190 0
 92D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins\confirmDate\confirmDate.js133142820587143191 0
 62D:\Projects\goit-js-hw-09\node_modules\@parcel\diagnostic\test133142815075187891 1
@@ -267,7 +267,7 @@
 64D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\l10n\fa.js133142820588713182 0
 57D:\Projects\goit-js-hw-09\node_modules\@parcel\plugin\lib133142815061957901 1
 63D:\Projects\goit-js-hw-09\node_modules\terser\dist\package.json133142815122877902 0
-77D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins\confirmDate133142820587103193 1
+77D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins\confirmDate133142820587133209 1
 47D:\Projects\goit-js-hw-09\node_modules\chokidar133142815087127909 1
 63D:\Projects\goit-js-hw-09\node_modules\json5\dist\index.min.mjs133142815096787902 0
 84D:\Projects\goit-js-hw-09\node_modules\flatpickr\src\style\themes\material_blue.styl133142820602733189 0
@@ -919,7 +919,7 @@
 61D:\Projects\goit-js-hw-09\node_modules\xxhash-wasm\types.d.ts133142815089957898 0
 56D:\Projects\goit-js-hw-09\node_modules\nan\tools\1to2.js133142815104387907 0
 62D:\Projects\goit-js-hw-09\node_modules\@parcel\fs\src\index.js133142815082347921 0
-65D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins133142820595373186 1
+65D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins133142820601203182 1
 80D:\Projects\goit-js-hw-09\node_modules\@swc\helpers\lib\_class_name_tdz_error.js133142815101427906 0
 75D:\Projects\goit-js-hw-09\node_modules\@parcel\watcher\prebuilds\darwin-x64133142815112687896 1
 69D:\Projects\goit-js-hw-09\node_modules\xxhash-wasm\umd\xxhash-wasm.js133142815071037906 0
@@ -1494,7 +1494,7 @@
 59D:\Projects\goit-js-hw-09\node_modules\source-map\README.md133142815062307906 0
 73D:\Projects\goit-js-hw-09\node_modules\fast-glob\out\managers\patterns.js133142815100657905 0
 77D:\Projects\goit-js-hw-09\node_modules\entities\lib\decode_codepoint.d.ts.map133142815094927897 0
-65D:\Projects\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css.map133142866879584345 0
+65D:\Projects\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css.map133144731384584079 0
 56D:\Projects\goit-js-hw-09\node_modules\@parcel\cache\src133142815092307912 1
 81D:\Projects\goit-js-hw-09\node_modules\htmlnano\docs\versioned_docs\version-1.1.1133142815126027915 1
 55D:\Projects\goit-js-hw-09\node_modules\base-x\README.md133142815072127903 0
@@ -1580,7 +1580,7 @@
 80D:\Projects\goit-js-hw-09\node_modules\caniuse-lite\data\features\css-filters.js133142816448355577 0
 69D:\Projects\goit-js-hw-09\node_modules\sass\types\value\function.d.ts133142815126927902 0
 87D:\Projects\goit-js-hw-09\node_modules\caniuse-lite\data\features\unhandledrejection.js133142816459223982 0
-47D:\Projects\goit-js-hw-09\dist\03-promises.html133142866879634344 0
+47D:\Projects\goit-js-hw-09\dist\03-promises.html133144731384754077 0
 66D:\Projects\goit-js-hw-09\node_modules\htmlnano\lib\presets\max.js133142815093687903 0
 65D:\Projects\goit-js-hw-09\node_modules\sass\types\value\list.d.ts133142815127977906 0
 74D:\Projects\goit-js-hw-09\node_modules\caniuse-lite\data\features\webxr.js133142816460132413 0
@@ -1844,7 +1844,7 @@
 78D:\Projects\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\package.json133142815098277899 0
 84D:\Projects\goit-js-hw-09\node_modules\@parcel\optimizer-image\lib\ImageOptimizer.js133142815062577894 0
 68D:\Projects\goit-js-hw-09\node_modules\msgpackr-extract\node_modules133142815164267897 1
-73D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\plugins\confirmDate133142820585403187 1
+73D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\plugins\confirmDate133142820603713184 1
 70D:\Projects\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test133142815099257905 1
 84D:\Projects\goit-js-hw-09\node_modules\@parcel\transformer-svg\lib\SVGTransformer.js133142815084747900 0
 61D:\Projects\goit-js-hw-09\node_modules\callsites\package.json133142815059117893 0
@@ -1873,7 +1873,7 @@
 74D:\Projects\goit-js-hw-09\node_modules\node-addon-api\package-support.json133142815097767902 0
 95D:\Projects\goit-js-hw-09\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV5\files133142815120717908 1
 74D:\Projects\goit-js-hw-09\node_modules\css-tree\lib\syntax\node\AnPlusB.js133142815073027920 0
-41D:\Projects\goit-js-hw-09\dist\index.html133142866879594337 0
+41D:\Projects\goit-js-hw-09\dist\index.html133144731384754077 0
 66D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\l10n\uz.d.ts133142820609718344 0
 74D:\Projects\goit-js-hw-09\node_modules\caniuse-lite\data\features\fetch.js133142816452237112 0
 62D:\Projects\goit-js-hw-09\node_modules\@parcel\transformer-raw133142815072167910 1
@@ -2195,7 +2195,7 @@
 75D:\Projects\goit-js-hw-09\node_modules\mdn-data\api\inheritance.schema.json133142815093317909 0
 73D:\Projects\goit-js-hw-09\node_modules\@nodelib\fs.scandir\out\index.d.ts133142815100457912 0
 62D:\Projects\goit-js-hw-09\node_modules\lmdb-win32-x64\index.js133142815058157904 0
-76D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins\weekSelect133142820601203182 1
+76D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins\weekSelect133142820601213181 1
 70D:\Projects\goit-js-hw-09\node_modules\lmdb-win32-x64\node.abi108.node133142815094587905 0
 80D:\Projects\goit-js-hw-09\node_modules\caniuse-lite\data\features\canvas-text.js133142816447217642 0
 71D:\Projects\goit-js-hw-09\node_modules\fast-glob\out\utils\pattern.d.ts133142815117467911 0
@@ -2280,7 +2280,7 @@
 77D:\Projects\goit-js-hw-09\node_modules\lmdb\dependencies\lz4\lib\liblz4.pc.in133142815134927945 0
 92D:\Projects\goit-js-hw-09\node_modules\@babel\highlight\node_modules\color-convert\README.md133142815080087907 0
 97D:\Projects\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm133142815101207914 1
-73D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\plugins\monthSelect133142820592903193 1
+73D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\plugins\monthSelect133142820607138354 1
 113D:\Projects\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\package.json133142815135577903 0
 87D:\Projects\goit-js-hw-09\node_modules\css-select\lib\pseudo-selectors\filters.d.ts.map133142815099357909 0
 79D:\Projects\goit-js-hw-09\node_modules\abortcontroller-polyfill\src\ponyfill.js133142815090057902 0
@@ -2595,7 +2595,7 @@
 58D:\Projects\goit-js-hw-09\node_modules\flatpickr\README.md133142820601863188 0
 58D:\Projects\goit-js-hw-09\node_modules\flatpickr\src\style133142820602513189 1
 81D:\Projects\goit-js-hw-09\node_modules\caniuse-lite\data\features\offline-apps.js133142816456224814 0
-65D:\Projects\goit-js-hw-09\node_modules\flatpickr\src\style\themes133142820601993187 1
+65D:\Projects\goit-js-hw-09\node_modules\flatpickr\src\style\themes133142820603013185 1
 77D:\Projects\goit-js-hw-09\node_modules\flatpickr\src\style\themes\airbnb.styl133142820602033189 0
 76D:\Projects\goit-js-hw-09\node_modules\@parcel\transformer-json\package.json133142815073257905 0
 79D:\Projects\goit-js-hw-09\node_modules\flatpickr\src\style\themes\confetti.styl133142820602093195 0
@@ -2614,8 +2614,8 @@
 70D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\flatpickr.min.js133142820590563192 0
 60D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\ie.css133142820585713188 0
 66D:\Projects\goit-js-hw-09\node_modules\dom-serializer\node_modules133142815005866628 1
-58D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\l10n133142820601693192 1
-61D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\plugins133142820595473188 1
+58D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\l10n133142820609948356 1
+61D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\plugins133142820608928357 1
 70D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\utils\dates.d.ts133142820604063187 0
 75D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\utils\formatting.d.ts133142820606298350 0
 70D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\utils\index.d.ts133142820607198344 0
@@ -2635,10 +2635,10 @@
 65D:\Projects\goit-js-hw-09\node_modules\color-convert\package.json133142815059107892 0
 80D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\themes\material_orange.css133142820585903193 0
 75D:\Projects\goit-js-hw-09\node_modules\cosmiconfig\dist\cacheWrapper.js.map133142815092957905 0
-73D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\plugins\labelPlugin133142820595473188 1
+73D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\plugins\labelPlugin133142820607638345 1
 85D:\Projects\goit-js-hw-09\node_modules\electron-to-chromium\full-chromium-versions.js133142815069297901 0
 77D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\plugins\momentPlugin.js133142820596563192 0
-72D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\plugins\weekSelect133142820601303201 1
+72D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\plugins\weekSelect133142820609828343 1
 75D:\Projects\goit-js-hw-09\node_modules\@swc\helpers\lib\_new_arrow_check.js133142815121147895 0
 88D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\plugins\weekSelect\weekSelect.d.ts133142820609838349 0
 56D:\Projects\goit-js-hw-09\node_modules\error-ex\index.js133142815061707901 0
@@ -2779,7 +2779,7 @@
 75D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\esm\types\instance.js133142820593123185 0
 74D:\Projects\goit-js-hw-09\node_modules\caniuse-lite\data\regions\alt-af.js133142816445980056 0
 52D:\Projects\goit-js-hw-09\node_modules\fastq\LICENSE133142815059097896 0
-77D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins\labelPlugin133142820595373186 1
+77D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins\labelPlugin133142820595383185 1
 70D:\Projects\goit-js-hw-09\node_modules\caniuse-lite\data\regions\VE.js133142816459533973 0
 85D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins\minMaxTimePlugin.js133142820596053181 0
 81D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\esm\plugins\momentPlugin.js133142820596523193 0
@@ -2815,7 +2815,7 @@
 57D:\Projects\goit-js-hw-09\node_modules\callsites\index.js133142815066437903 0
 65D:\Projects\goit-js-hw-09\node_modules\css-what\lib\es\index.d.ts133142815102247905 0
 68D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\kz.js133142820595013187 0
-56D:\Projects\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133142866879584345 0
+56D:\Projects\goit-js-hw-09\dist\goit-js-hw-09.59712999.js133144731384744083 0
 68D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\mk.js133142820596233195 0
 68D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\mn.js133142820596393179 0
 68D:\Projects\goit-js-hw-09\node_modules\flatpickr\dist\esm\l10n\ms.js133142820596673187 0
@@ -3105,7 +3105,7 @@
 73D:\Projects\goit-js-hw-09\node_modules\css-what\lib\commonjs\stringify.js133142815084387906 0
 81D:\Projects\goit-js-hw-09\node_modules\caniuse-lite\data\features\css3-cursors.js133142816449944856 0
 71D:\Projects\goit-js-hw-09\node_modules\css-what\lib\commonjs\types.d.ts133142815105057900 0
-60D:\Projects\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133142866879584345 0
+60D:\Projects\goit-js-hw-09\dist\01-color-switcher.52e3b619.js133144732249637036 0
 87D:\Projects\goit-js-hw-09\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.mjs133142815085547907 0
 74D:\Projects\goit-js-hw-09\node_modules\css-tree\lib\syntax\config\lexer.js133142815127567909 0
 51D:\Projects\goit-js-hw-09\node_modules\css-tree\lib133142815124297907 1
@@ -3452,7 +3452,7 @@
 70D:\Projects\goit-js-hw-09\node_modules\caniuse-lite\data\regions\FI.js133142816452262936 0
 70D:\Projects\goit-js-hw-09\node_modules\caniuse-lite\data\regions\FJ.js133142816452351552 0
 72D:\Projects\goit-js-hw-09\node_modules\caniuse-lite\data\features\ogv.js133142816456284816 0
-51D:\Projects\goit-js-hw-09\dist\02-timer.f9388f03.js133142871558646798 0
+51D:\Projects\goit-js-hw-09\dist\02-timer.f9388f03.js133144737346814862 0
 75D:\Projects\goit-js-hw-09\node_modules\@parcel\watcher\src\watchman\BSER.cc133142815079237908 0
 70D:\Projects\goit-js-hw-09\node_modules\caniuse-lite\data\regions\FK.js133142816452361548 0
 70D:\Projects\goit-js-hw-09\node_modules\caniuse-lite\data\regions\FM.js133142816452421554 0
@@ -4411,7 +4411,7 @@
 71D:\Projects\goit-js-hw-09\node_modules\@parcel\packager-js\lib\index.js133142815094097902 0
 87D:\Projects\goit-js-hw-09\node_modules\@parcel\packager-js\lib\ScopeHoistingPackager.js133142815097507910 0
 68D:\Projects\goit-js-hw-09\node_modules\@parcel\packager-html\LICENSE133142815059187901 0
-44D:\Projects\goit-js-hw-09\dist\02-timer.html133142866879594337 0
+44D:\Projects\goit-js-hw-09\dist\02-timer.html133144731384754077 0
 73D:\Projects\goit-js-hw-09\node_modules\@parcel\packager-html\package.json133142815074397895 0
 80D:\Projects\goit-js-hw-09\node_modules\@parcel\packager-html\src\HTMLPackager.js133142815070487902 0
 63D:\Projects\goit-js-hw-09\node_modules\@parcel\packager-css\lib133142815061957901 1
@@ -4705,7 +4705,7 @@
 130D:\Projects\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\package.json133142815141267904 0
 82D:\Projects\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\parcel\yarn.lock133142815141637903 0
 87D:\Projects\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\main-mjs\package.json133142815140807915 0
-58D:\Projects\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133142866879714339 0
+58D:\Projects\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133144731385084102 0
 97D:\Projects\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\library-scopehoist\package.json133142815140507903 0
 94D:\Projects\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\invalid-targets\package.json133142815140397907 0
 109D:\Projects\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\package.json133142815140307904 0
@@ -4852,7 +4852,7 @@
 68D:\Projects\goit-js-hw-09\node_modules\@nodelib\fs.scandir\out\types133142815101057915 1
 68D:\Projects\goit-js-hw-09\node_modules\@nodelib\fs.scandir\out\utils133142815101757907 1
 76D:\Projects\goit-js-hw-09\node_modules\@nodelib\fs.scandir\out\utils\fs.d.ts133142815099627914 0
-64D:\Projects\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133142866879724345 0
+64D:\Projects\goit-js-hw-09\dist\01-color-switcher.52e3b619.js.map133144732249657010 0
 91D:\Projects\goit-js-hw-09\node_modules\@jridgewell\trace-mapping\dist\trace-mapping.mjs.map133142815075297888 0
 74D:\Projects\goit-js-hw-09\node_modules\@nodelib\fs.scandir\out\utils\fs.js133142815082917908 0
 81D:\Projects\goit-js-hw-09\node_modules\@nodelib\fs.scandir\out\providers\async.js133142815063507920 0
@@ -4990,11 +4990,11 @@
 50D:\Projects\goit-js-hw-09\node_modules\.bin\terser133142815164597896 0
 54D:\Projects\goit-js-hw-09\node_modules\.bin\terser.cmd133142815164607896 0
 54D:\Projects\goit-js-hw-09\node_modules\.bin\terser.ps1133142815164597896 0
-61D:\Projects\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133142866879574348 0
-53D:\Projects\goit-js-hw-09\dist\01-color-switcher.html133142866879584345 0
-55D:\Projects\goit-js-hw-09\dist\02-timer.f9388f03.js.map133142871558816818 0
-54D:\Projects\goit-js-hw-09\dist\03-promises.cd58c9ff.js133142866879584345 0
-60D:\Projects\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133142866879724345 0
+61D:\Projects\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133144731384584079 0
+53D:\Projects\goit-js-hw-09\dist\01-color-switcher.html133144731384744083 0
+55D:\Projects\goit-js-hw-09\dist\02-timer.f9388f03.js.map133144737346874872 0
+54D:\Projects\goit-js-hw-09\dist\03-promises.cd58c9ff.js133144731384744083 0
+60D:\Projects\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133144731385054089 0
 58D:\Projects\goit-js-hw-09\assets\actions-config-step-2.png133142805565046248 0
 49D:\Projects\goit-js-hw-09\assets\how-it-works.png133142805565076249 0
 50D:\Projects\goit-js-hw-09\assets\repo-settings.png133142805565146250 0

@@ -1,5 +1,6 @@
 import flatpickr from 'flatpickr';
 import 'flatpickr/dist/flatpickr.min.css';
+import { Notify } from 'notiflix/build/notiflix-notify-aio';
 startBtn = document.querySelector('button[data-start]');
 startBtn.disabled = true;
 
@@ -7,7 +8,7 @@ const daysRef = document.querySelector('span[data-days]');
 const hoursRef = document.querySelector('span[data-hours]');
 const minutesRef = document.querySelector('span[data-minutes]');
 const secondsRef = document.querySelector('span[data-seconds]');
-
+console.log(Notify);
 const options = {
   enableTime: true,
   time_24hr: true,
@@ -16,7 +17,7 @@ const options = {
   onClose(selectedDates) {
     // console.log(selectedDates[0]);
     if (selectedDates[0] - options.defaultDate < 0) {
-      window.alert('Please choose a date in the future');
+      Notify.failure('Please choose a date in the future');
     } else if (selectedDates[0] - options.defaultDate > 0) {
       options.chosenDate = selectedDates[0];
       enableBtn();
@@ -61,11 +62,14 @@ function convertMs(ms) {
 
   return { days, hours, minutes, seconds };
 }
+function addLeadingZero(value) {
+  return value.toString().padStart(2, '0');
+}
 function updateAPIData({ days, hours, minutes, seconds }) {
-  daysRef.textContent = days.toString().padStart(2, '0');
-  hoursRef.textContent = hours.toString().padStart(2, '0');
-  minutesRef.textContent = minutes.toString().padStart(2, '0');
-  secondsRef.textContent = seconds.toString().padStart(2, '0');
+  daysRef.textContent = addLeadingZero(days);
+  hoursRef.textContent = addLeadingZero(hours);
+  minutesRef.textContent = addLeadingZero(minutes);
+  secondsRef.textContent = addLeadingZero(seconds);
 }
 let timerId = null;
 function startTimer() {
