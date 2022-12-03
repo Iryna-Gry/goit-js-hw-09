@@ -1,7 +1,7 @@
 import flatpickr from 'flatpickr';
 import 'flatpickr/dist/flatpickr.min.css';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
-startBtn = document.querySelector('button[data-start]');
+const startBtn = document.querySelector('button[data-start]');
 startBtn.disabled = true;
 
 const daysRef = document.querySelector('span[data-days]');

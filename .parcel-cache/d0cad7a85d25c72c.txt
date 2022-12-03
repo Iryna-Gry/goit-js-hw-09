@@ -31,7 +31,7 @@
 59D:\Projects\goit-js-hw-09\node_modules\terser\dist\.gitkeep133142815058897908 0
 92D:\Projects\goit-js-hw-09\node_modules\caniuse-lite\data\features\date-tolocaledatestring.js133142816451094849 0
 98D:\Projects\goit-js-hw-09\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.1133142815105187911 0
-30D:\Projects\goit-js-hw-09\dist133144858887202900 1
+30D:\Projects\goit-js-hw-09\dist133144868972642537 1
 35D:\Projects\goit-js-hw-09\.parcelrc133142805564906251 0
 91D:\Projects\goit-js-hw-09\node_modules\caniuse-lite\data\features\keyboardevent-location.js133142816454439870 0
 68D:\Projects\goit-js-hw-09\node_modules\regenerator-runtime\README.md133142815077017911 0
@@ -184,7 +184,7 @@
 122D:\Projects\goit-js-hw-09\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-alias-glob\src\test.js133142815129407900 0
 48D:\Projects\goit-js-hw-09\node_modules\@mischnic133142815005436631 1
 68D:\Projects\goit-js-hw-09\node_modules\lmdb-win32-x64\node.napi.node133142815109137906 0
-47D:\Projects\goit-js-hw-09\src\js\03-promises.js133144858884702712 0
+47D:\Projects\goit-js-hw-09\src\js\03-promises.js133144869568284752 0
 64D:\Projects\goit-js-hw-09\node_modules\type-fest\ts41\index.d.ts133142815098747916 0
 58D:\Projects\goit-js-hw-09\node_modules\yaml\browser\map.js133142815092557900 0
 72D:\Projects\goit-js-hw-09\node_modules\electron-to-chromium\CHANGELOG.md133142815093137918 0
@@ -4738,7 +4738,7 @@
 130D:\Projects\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\package.json133142815141267904 0
 82D:\Projects\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\parcel\yarn.lock133142815141637903 0
 87D:\Projects\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\main-mjs\package.json133142815140807915 0
-58D:\Projects\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133144858887192897 0
+58D:\Projects\goit-js-hw-09\dist\03-promises.cd58c9ff.js.map133144868972592548 0
 97D:\Projects\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\library-scopehoist\package.json133142815140507903 0
 94D:\Projects\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\invalid-targets\package.json133142815140397907 0
 109D:\Projects\goit-js-hw-09\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\package.json133142815140307904 0
@@ -5024,7 +5024,7 @@
 61D:\Projects\goit-js-hw-09\dist\01-color-switcher.101ee4ef.css133144841686309895 0
 53D:\Projects\goit-js-hw-09\dist\01-color-switcher.html133144841686319886 0
 55D:\Projects\goit-js-hw-09\dist\02-timer.f9388f03.js.map133144841686559892 0
-54D:\Projects\goit-js-hw-09\dist\03-promises.cd58c9ff.js133144858887142895 0
+54D:\Projects\goit-js-hw-09\dist\03-promises.cd58c9ff.js133144868972522548 0
 60D:\Projects\goit-js-hw-09\dist\goit-js-hw-09.59712999.js.map133144841686599894 0
 58D:\Projects\goit-js-hw-09\assets\actions-config-step-2.png133142805565046248 0
 49D:\Projects\goit-js-hw-09\assets\how-it-works.png133142805565076249 0
