@@ -18,21 +18,21 @@ function createPromise(position, delay) {
 
 let intervalId = null;
 function invokePromiseSet(evt) {
+  let delay = 0;
   evt.preventDefault();
-  setTimeout(createPromiseSet, firstDelayInput.value);
+  delay = Number(firstDelayInput.value);
+  setTimeout(createPromiseSet(delay), delay);
 }
 
-function createPromiseSet() {
+function createPromiseSet(delay) {
   let position = 0;
-  let delay = 0;
-  delay = delayStepInput.value;
   intervalId = setInterval(() => {
     position += 1;
     if (position <= amountInput.value) {
       createPromise({ position, delay }).then(onSuccess).catch(onError);
+      delay += Number(delayStepInput.value);
     }
   }, delay);
-
   if (position > amountInput.value) {
     clearInterval(intervalId);
     return;
